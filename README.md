@@ -1,3 +1,5 @@
+<img width="769" height="91" alt="image" src="https://github.com/user-attachments/assets/5783f7b4-c8a9-424a-a37f-243625f24aaf" />
+
 This repository contains the implementation used for the experimental evaluation reported in the paper.
 
 **1: Install the required dependencies:**  
