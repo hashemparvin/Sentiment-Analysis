@@ -1,6 +1,7 @@
 **The code is currently being finalized and will be updated soon.**
 
 This repository contains the implementation used for the experimental evaluation reported in the paper.
+**A multi-view graph learning approach with RoBERTa for Twitter sentiment**
 
 **1: Install the required dependencies:**  
 pip install torch torchvision torchaudio  <br>
